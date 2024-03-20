@@ -1,3 +1,9 @@
 ﻿  pch.cpp
+  CommandQueue.cpp
+  DescriptorHeap.cpp
+  Device.cpp
+  Engine.cpp
   EnginePch.cpp
+  SwapChain.cpp
+  코드를 생성하고 있습니다...
   Engine.vcxproj -> D:\GitHub\DirectX\DXStart1\Output\Engine.lib
