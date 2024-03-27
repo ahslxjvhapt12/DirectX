@@ -4,15 +4,8 @@ d:\github\directx\dxstart1\output\engine.idb
 d:\github\directx\dxstart1\engine\x64\debug\pch.obj
 d:\github\directx\dxstart1\engine\x64\debug\swapchain.obj
 d:\github\directx\dxstart1\engine\x64\debug\enginepch.obj
-d:\github\directx\dxstart1\engine\x64\debug\engine.obj
 d:\github\directx\dxstart1\engine\x64\debug\device.obj
 d:\github\directx\dxstart1\engine\x64\debug\descriptorheap.obj
-d:\github\directx\dxstart1\engine\x64\debug\commandqueue.obj
-d:\github\directx\dxstart1\output\engine.lib
 d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\cl.command.1.tlog
-d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\cl.items.tlog
 d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\cl.read.1.tlog
 d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\cl.write.1.tlog
-d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\lib-link.read.1.tlog
-d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\lib-link.write.1.tlog
-d:\github\directx\dxstart1\engine\x64\debug\engine.tlog\lib.command.1.tlog

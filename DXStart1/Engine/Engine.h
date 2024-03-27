@@ -5,6 +5,9 @@ public:
     void Init(const WindowInfo& wInfo);
     void Render();
 
+    void RenderBegin();
+    void RenderEnd();
+
     void ResizeWindow(int32 width, int32 height);
 
 private:

@@ -1,10 +1,18 @@
 #pragma once
+class SwapChain;
+class DescriptorHeap;
+
 class CommandQueue
 {
 public:
 	~CommandQueue();
 	void Init(ComPtr<ID3D12Device> device, shared_ptr<SwapChain> swapChain, shared_ptr<DescriptorHeap> descHeap);
 	void WaitSync();
+
+	void RenderBegin(const D3D12_VIEWPORT* vp, const D3D12_RECT* rect);
+	void RenderEnd();
+
+	ComPtr<ID3D12CommandQueue> GetCmdQueue() { return _cmdQueue; }
 
 private:
 	// 커맨드 큐는 언제 등장했느냐? DX12때 등장
